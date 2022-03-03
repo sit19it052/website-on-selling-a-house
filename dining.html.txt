@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Dining</title>
+</head>
+<body>
+<p>
+<h1>Large dining</h1>
+</p>
+<img src="https://images.unsplash.com/photo-1617806118233-18e1de247200?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZGluaW5nJTIwcm9vbXxlbnwwfHwwfHw%3D&w=1000&q=80"width="900" height="600">
+<p>
+<h3>Dining where placed next to kitchen to serve the food</h3>
+</p>
+</body>
+</html>

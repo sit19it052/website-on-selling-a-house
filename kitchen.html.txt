@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>kitchen</title>
+</head>
+<body>
+<p>
+<h1>beautiful and large kitchen</h1>
+</p>
+<img src="https://www.thespruce.com/thmb/XLU_n5Uokl_D3Gl00lmrWO7jiDg=/1365x1365/smart/filters:no_upscale()/best-kitchen-design-trends-4159322-hero-2c5404426e204445b3c182ecfe90ab7b.jpg"width="1000" height="600">
+<p>
+<h3>south facing with beautiful modernizied kitchen</h3>
+</p>
+</body>
+</html>

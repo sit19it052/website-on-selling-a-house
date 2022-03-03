@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>HOME</title>
+<body>
+<p>
+<h1>WE HAVE INCLUDED THE HOUSE PICTURE<br></h1>
+</p>
+<img src="https://rentportlandhomes.com/wp-content/uploads/2021/04/pexels-photo-186077.jpeg" width="1000" height="500"<br>
+<P>
+<h3>location<br></h3>
+St.Johns Plast World
+
+Porur, Chennai, Tamil Nadu
+GST-33AOGPJ3204B1ZS
+</p>
+</body>
+</head>
+</html>

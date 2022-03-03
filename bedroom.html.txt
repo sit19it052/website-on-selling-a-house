@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>bedrooms</title>
+</head>
+<body>
+<p>
+<h1>beautiful and pleasant bedroom</h1>
+</p>
+<img src="https://i.pinimg.com/originals/4b/4a/45/4b4a456f9f773d42669c3b2fb32f5208.jpg"width="900" height="600">
+<p>
+<h3>The house contains 2 bedrooms in ground floor and 3 bedroooms in first floor</h3>
+</p>
+</body>
+</html>
