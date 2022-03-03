@@ -1,0 +1,23 @@
+<html>
+<head>
+<title> My Page </title>
+<link rel="stylesheet"href="home.css">
+</head>
+<body>
+<div class="banner">
+<div class="navbar">
+<img src="https://i.pinimg.com/originals/b4/6f/a5/b46fa5d566669af9dc32f98f6309b52b.jpg"class="logo">
+<ul>
+<li><a href="h.html">Home</a></li>
+<li><a href="bedroom.html">bedroom</a></li>
+<li><a href="dining.html">Dining</a></li>
+<li><a href="kitchen.html">Kitchen</a></li>
+<li><a href="backyard.html">backyard</a></li>
+<li><a href="contact.html">contact us</a></li>
+
+</ul>
+</div>
+<div class="content">
+<h1>DESIGN YOUR HOUSE</h1>
+<p>we are here to design your house in low house<br> happy life</p>
+</div>
